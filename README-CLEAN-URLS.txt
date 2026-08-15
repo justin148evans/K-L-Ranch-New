@@ -1,4 +1,6 @@
-K & L Ranch — Clean URL Build
+K & L Ranch — Clean URL + Styled Build
+
+This version keeps the full CSS, images, responsive layout, and polished ranch design.
 
 Routes:
 - /
@@ -7,7 +9,8 @@ Routes:
 - /gallery/
 - /contact/
 
-Upload the entire contents of this folder to your web host.
-Your host must support directory index files (index.html), which most hosts do automatically.
+Upload the CONTENTS of this folder to your website's public/root folder.
+Keep the assets folder and all page folders exactly as provided.
 
-If previewing locally by double-clicking files, absolute / paths may not behave the same as on a real web server.
+This build uses relative asset paths so the CSS and photos continue to work
+whether previewed in a folder or hosted normally.
